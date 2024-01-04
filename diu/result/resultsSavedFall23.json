@@ -197,20 +197,6 @@
             "Web Engineering | A+"
         ]
     },
-    "191-15-2716": {
-        "sgpa": 3.48,
-        "name": "Shawkat Uddin Akanda",
-        "cTitleNgLetter": [
-            "Big Data and IoT | A+",
-            "Computer Graphics Lab | B+",
-            "Computer Graphics | B+",
-            "Natural Language Processing | A+",
-            "Software Engineering | A+",
-            "Software Project VI | B+",
-            "Web Engineering Lab | C+",
-            "Web Engineering | B-"
-        ]
-    },
     "181-15-955": {
         "sgpa": 3.46,
         "name": "Mashiur Rahman",
@@ -1063,20 +1049,6 @@
             "Web Engineering | F"
         ]
     },
-    "201-15-3209": {
-        "sgpa": 2.25,
-        "name": "Zannatul Mawya Priya ",
-        "cTitleNgLetter": [
-            "Big Data and IoT | B-",
-            "Computer Graphics Lab | C+",
-            "Computer Graphics | C+",
-            "Natural Language Processing | C",
-            "Software Engineering | C+",
-            "Software Project VI | B",
-            "Web Engineering Lab | D",
-            "Web Engineering | F"
-        ]
-    },
     "201-15-3534": {
         "sgpa": 2.2,
         "name": "Mahamudul Hassan Joy",
@@ -1253,11 +1225,6 @@
         "name": "Md.Nahid Hasan",
         "cTitleNgLetter": []
     },
-    "201-15-3603": {
-        "sgpa": 0.0,
-        "name": "KH. Abrarul Islam Tanjim",
-        "cTitleNgLetter": []
-    },
     "181-15-1921": {
         "sgpa": 0.0,
         "name": "Md. Ashraful Islam ",
@@ -1355,6 +1322,11 @@
     "203-15-3908": {
         "sgpa": 0.0,
         "name": "Md. Asif Haider",
+        "cTitleNgLetter": []
+    },
+    "191-15-2612": {
+        "sgpa": 0.0,
+        "name": "Md Rabbi Hasan",
         "cTitleNgLetter": []
     }
 }
