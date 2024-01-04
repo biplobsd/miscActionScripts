@@ -41,6 +41,20 @@
             "Web Engineering | A+"
         ]
     },
+    "203-15-3862": {
+        "sgpa": 3.86,
+        "name": "Sakir Hossain Faruque",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | Teaching evaluation is pending",
+            "Big Data and IoT | Teaching evaluation is pending",
+            "Computer Graphics | Teaching evaluation is pending",
+            "Natural Language Processing | Teaching evaluation is pending",
+            "Software Engineering | A",
+            "Software Project VI | Teaching evaluation is pending",
+            "Web Engineering Lab | Teaching evaluation is pending",
+            "Web Engineering | Teaching evaluation is pending"
+        ]
+    },
     "203-15-3881": {
         "sgpa": 3.84,
         "name": "Mahadi Hasan Munna",
@@ -623,19 +637,6 @@
             "Software Project VI | A",
             "Web Engineering Lab | C",
             "Web Engineering | B-"
-        ]
-    },
-    "201-15-3692": {
-        "sgpa": 2.91,
-        "name": "Galib Al Jadid ",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | Teaching evaluation is pending",
-            "Big Data and IoT | Teaching evaluation is pending",
-            "Computer Graphics | Teaching evaluation is pending",
-            "Software Engineering | Teaching evaluation is pending",
-            "Software Project VI | Teaching evaluation is pending",
-            "Web Engineering Lab | C",
-            "Web Engineering | D"
         ]
     },
     "201-15-3559": {
@@ -1289,34 +1290,6 @@
             "Web Engineering | Teaching evaluation is pending"
         ]
     },
-    "201-15-3263": {
-        "sgpa": 0.0,
-        "name": "AAHAD RAIHAN SIKTO ",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | I",
-            "Artificial Intelligence | I",
-            "Computer Networks Lab | I",
-            "Computer Networks | I",
-            "Database Management System Lab | F",
-            "Database Management System | F",
-            "Math for Computer Science | I",
-            "Software Project IV | I"
-        ]
-    },
-    "203-15-3862": {
-        "sgpa": 0.0,
-        "name": "Sakir Hossain Faruque",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | Teaching evaluation is pending",
-            "Big Data and IoT | Teaching evaluation is pending",
-            "Computer Graphics | Teaching evaluation is pending",
-            "Natural Language Processing | Teaching evaluation is pending",
-            "Software Engineering | Teaching evaluation is pending",
-            "Software Project VI | Teaching evaluation is pending",
-            "Web Engineering Lab | Teaching evaluation is pending",
-            "Web Engineering | Teaching evaluation is pending"
-        ]
-    },
     "203-15-3908": {
         "sgpa": 0.0,
         "name": "Md. Asif Haider",
@@ -1336,6 +1309,16 @@
     "201-15-3063": {
         "sgpa": 0.0,
         "name": "Jugol Kishor Das",
+        "cTitleNgLetter": []
+    },
+    "191-15-2612": {
+        "sgpa": 0.0,
+        "name": "Md Rabbi Hasan",
+        "cTitleNgLetter": []
+    },
+    "181-15-1852": {
+        "sgpa": 0.0,
+        "name": "Md. Redoy Ahmed ",
         "cTitleNgLetter": []
     }
 }
