@@ -62,7 +62,7 @@ def fetchData(url, id):
 
 if __name__ == "__main__":
     saveFileName = "resultsSavedFall23.json"
-    url = "http://software.diu.edu.bd:8189/result"
+    url = "http://software.diu.edu.bd:8006/result"
 
     urlInfo = f'{url}/studentInfo'
     m = rawDataFIds()
