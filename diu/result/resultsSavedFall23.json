@@ -1049,6 +1049,20 @@
             "Web Engineering | F"
         ]
     },
+    "203-15-3880": {
+        "sgpa": 2.32,
+        "name": "Abdul Fattah Mujtabir Samin",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | A",
+            "Big Data and IoT | D",
+            "Computer Graphics | D",
+            "Natural Language Processing | D",
+            "Software Engineering | C+",
+            "Software Project VI | A-",
+            "Web Engineering Lab | D",
+            "Web Engineering | F"
+        ]
+    },
     "201-15-3209": {
         "sgpa": 2.25,
         "name": "Zannatul Mawya Priya ",
@@ -1239,11 +1253,6 @@
         "name": "Md.Nahid Hasan",
         "cTitleNgLetter": []
     },
-    "181-15-1096": {
-        "sgpa": 0.0,
-        "name": "Sadekul Alam",
-        "cTitleNgLetter": []
-    },
     "201-15-3603": {
         "sgpa": 0.0,
         "name": "KH. Abrarul Islam Tanjim",
@@ -1271,17 +1280,6 @@
             "Software Project VI | Teaching evaluation is pending",
             "Web Engineering Lab | Teaching evaluation is pending",
             "Web Engineering | Teaching evaluation is pending"
-        ]
-    },
-    "201-15-3283": {
-        "sgpa": 0.0,
-        "name": "Mazharul Islam",
-        "cTitleNgLetter": [
-            "Data Mining and Machine Learning Lab | F",
-            "Pervasive Computing | F",
-            "Software Engineering | I",
-            "Software Project VI | I",
-            "System Analysis and Design | F"
         ]
     },
     "201-15-3063": {
@@ -1336,6 +1334,16 @@
     "143-15-4546": {
         "sgpa": 0.0,
         "name": "Zamiul Islam",
+        "cTitleNgLetter": []
+    },
+    "182-15-2223": {
+        "sgpa": 0.0,
+        "name": "Md. Sakib Chowdhury",
+        "cTitleNgLetter": []
+    },
+    "181-15-2070": {
+        "sgpa": 0.0,
+        "name": "Mazharul Alam ",
         "cTitleNgLetter": []
     }
 }
