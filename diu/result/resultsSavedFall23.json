@@ -893,6 +893,20 @@
             "Web Engineering | D"
         ]
     },
+    "193-15-2998": {
+        "sgpa": 2.63,
+        "name": "SHEHAB MOLLAH",
+        "cTitleNgLetter": [
+            "Big Data and IoT | C",
+            "Computer Graphics Lab | B-",
+            "Computer Graphics | B-",
+            "Natural Language Processing | D",
+            "Software Engineering | B-",
+            "Software Project VI | A",
+            "Web Engineering Lab | B",
+            "Web Engineering | C"
+        ]
+    },
     "203-15-3918": {
         "sgpa": 2.57,
         "name": "Fatema Ha-mim",
@@ -1292,17 +1306,6 @@
         "name": "Mazharul Alam ",
         "cTitleNgLetter": []
     },
-    "201-15-3283": {
-        "sgpa": 0.0,
-        "name": "Mazharul Islam",
-        "cTitleNgLetter": [
-            "Data Mining and Machine Learning Lab | F",
-            "Pervasive Computing | F",
-            "Software Engineering | I",
-            "Software Project VI | I",
-            "System Analysis and Design | F"
-        ]
-    },
     "181-15-1096": {
         "sgpa": 0.0,
         "name": "Sadekul Alam",
@@ -1341,6 +1344,11 @@
     "181-15-1852": {
         "sgpa": 0.0,
         "name": "Md. Redoy Ahmed ",
+        "cTitleNgLetter": []
+    },
+    "203-15-3904": {
+        "sgpa": 0.0,
+        "name": "Hasibul Hasan ",
         "cTitleNgLetter": []
     }
 }
