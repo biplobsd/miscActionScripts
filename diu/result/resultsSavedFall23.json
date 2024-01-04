@@ -1282,11 +1282,6 @@
             "Web Engineering | Teaching evaluation is pending"
         ]
     },
-    "201-15-3063": {
-        "sgpa": 0.0,
-        "name": "Jugol Kishor Das",
-        "cTitleNgLetter": []
-    },
     "191-15-2612": {
         "sgpa": 0.0,
         "name": "Md Rabbi Hasan",
@@ -1344,6 +1339,22 @@
     "181-15-2070": {
         "sgpa": 0.0,
         "name": "Mazharul Alam ",
+        "cTitleNgLetter": []
+    },
+    "201-15-3283": {
+        "sgpa": 0.0,
+        "name": "Mazharul Islam",
+        "cTitleNgLetter": [
+            "Data Mining and Machine Learning Lab | F",
+            "Pervasive Computing | F",
+            "Software Engineering | I",
+            "Software Project VI | I",
+            "System Analysis and Design | F"
+        ]
+    },
+    "181-15-1096": {
+        "sgpa": 0.0,
+        "name": "Sadekul Alam",
         "cTitleNgLetter": []
     }
 }
