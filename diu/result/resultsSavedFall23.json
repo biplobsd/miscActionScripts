@@ -433,20 +433,6 @@
             "Web Engineering | B"
         ]
     },
-    "203-15-14572": {
-        "sgpa": 3.2,
-        "name": "Md. Golam Kibria",
-        "cTitleNgLetter": [
-            "Big Data and IoT | A-",
-            "Computer Graphics Lab | B",
-            "Computer Graphics | B+",
-            "Natural Language Processing | A-",
-            "Software Engineering | A-",
-            "Software Project VI | B+",
-            "Web Engineering Lab | B-",
-            "Web Engineering | C"
-        ]
-    },
     "203-15-3923": {
         "sgpa": 3.13,
         "name": "Biplob Kumar Sutradhar",
@@ -553,18 +539,6 @@
             "Software Project VI | A",
             "Web Engineering Lab | B",
             "Web Engineering | D"
-        ]
-    },
-    "162-15-1079": {
-        "sgpa": 3.04,
-        "name": "Sultan Mahmud Shawon",
-        "cTitleNgLetter": [
-            "Computer Networks Lab | A+",
-            "Computer Networks | C",
-            "Database Management System Lab | B+",
-            "Database Management System | B-",
-            "Economics | A+",
-            "Numerical Methods | B-"
         ]
     },
     "201-15-3397": {
@@ -743,9 +717,9 @@
         "cTitleNgLetter": [
             "Big Data and IoT Lab | C+",
             "Big Data and IoT | B-",
-            "Computer Graphics | Teaching evaluation is pending",
-            "Natural Language Processing | Teaching evaluation is pending",
-            "Software Engineering | Teaching evaluation is pending",
+            "Computer Graphics | B",
+            "Natural Language Processing | B",
+            "Software Engineering | A",
             "Software Project VI | A-",
             "Web Engineering Lab | C",
             "Web Engineering | F"
