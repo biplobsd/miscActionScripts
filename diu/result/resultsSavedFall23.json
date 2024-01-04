@@ -555,6 +555,18 @@
             "Web Engineering | D"
         ]
     },
+    "162-15-1079": {
+        "sgpa": 3.04,
+        "name": "Sultan Mahmud Shawon",
+        "cTitleNgLetter": [
+            "Computer Networks Lab | A+",
+            "Computer Networks | C",
+            "Database Management System Lab | B+",
+            "Database Management System | B-",
+            "Economics | A+",
+            "Numerical Methods | B-"
+        ]
+    },
     "201-15-3397": {
         "sgpa": 3.02,
         "name": "MD. AMIR HAMZA SHUVO ",
@@ -823,20 +835,6 @@
             "Software Project VI | B-",
             "Web Engineering Lab | D",
             "Web Engineering | D"
-        ]
-    },
-    "181-15-1723": {
-        "sgpa": 2.68,
-        "name": "Alauddin ",
-        "cTitleNgLetter": [
-            "Computer Architecture and Organization | C+",
-            "Computer Graphics Lab | B-",
-            "Computer Graphics | C+",
-            "Data Mining | C+",
-            "Embedded Systems | B",
-            "Introduction to Robotics | B-",
-            "Simulation and Modeling Lab | A-",
-            "Simulation and Modeling | C+"
         ]
     },
     "181-15-2017": {
@@ -1202,11 +1200,6 @@
             "Web Engineering | I"
         ]
     },
-    "201-15-3621": {
-        "sgpa": 0.0,
-        "name": "Md. Morsalin",
-        "cTitleNgLetter": []
-    },
     "201-15-3711": {
         "sgpa": 0.0,
         "name": "Sabikur Rahman",
@@ -1344,5 +1337,10 @@
             "Math for Computer Science | I",
             "Software Project IV | I"
         ]
+    },
+    "201-15-14273": {
+        "sgpa": 0.0,
+        "name": "ABDULLAH AL ASIB",
+        "cTitleNgLetter": []
     }
 }
