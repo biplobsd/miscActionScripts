@@ -293,20 +293,6 @@
             "Web Engineering | C+"
         ]
     },
-    "201-15-3470": {
-        "sgpa": 3.38,
-        "name": "S. M. MARUF HOSSAIN ",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | A-",
-            "Big Data and IoT | B+",
-            "Computer Graphics | A-",
-            "Natural Language Processing | B",
-            "Software Engineering | A-",
-            "Software Project VI | A",
-            "Web Engineering Lab | A-",
-            "Web Engineering | B+"
-        ]
-    },
     "203-15-3876": {
         "sgpa": 3.36,
         "name": "Shekh Kaniz Fatema",
@@ -1228,11 +1214,6 @@
             "System Analysis and Design | F"
         ]
     },
-    "143-15-4546": {
-        "sgpa": 0.0,
-        "name": "Zamiul Islam",
-        "cTitleNgLetter": []
-    },
     "203-15-3904": {
         "sgpa": 0.0,
         "name": "Hasibul Hasan ",
@@ -1347,5 +1328,19 @@
         "sgpa": 0.0,
         "name": "Md. Morsalin",
         "cTitleNgLetter": []
+    },
+    "201-15-3263": {
+        "sgpa": 0.0,
+        "name": "AAHAD RAIHAN SIKTO ",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | I",
+            "Artificial Intelligence | I",
+            "Computer Networks Lab | I",
+            "Computer Networks | I",
+            "Database Management System Lab | F",
+            "Database Management System | F",
+            "Math for Computer Science | I",
+            "Software Project IV | I"
+        ]
     }
 }
