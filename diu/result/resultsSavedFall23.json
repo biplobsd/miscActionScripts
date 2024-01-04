@@ -709,20 +709,6 @@
             "Web Engineering | B"
         ]
     },
-    "203-15-3865": {
-        "sgpa": 2.8,
-        "name": "Shekh Naziullah ",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | B-",
-            "Big Data and IoT | B-",
-            "Computer Graphics | A-",
-            "Natural Language Processing | B+",
-            "Software Engineering | A",
-            "Software Project VI | A-",
-            "Web Engineering Lab | F",
-            "Web Engineering | B"
-        ]
-    },
     "201-15-3779": {
         "sgpa": 2.79,
         "name": "Anowar Karim",
@@ -918,20 +904,6 @@
             "Software Engineering | B",
             "Software Project VI | A-",
             "Web Engineering Lab | D",
-            "Web Engineering | F"
-        ]
-    },
-    "203-15-3919": {
-        "sgpa": 2.52,
-        "name": "Farhan Adnan ",
-        "cTitleNgLetter": [
-            "Big Data and IoT | B",
-            "Computer Graphics Lab | C+",
-            "Computer Graphics | B-",
-            "Natural Language Processing | A-",
-            "Software Engineering | A-",
-            "Software Project VI | A-",
-            "Web Engineering Lab | F",
             "Web Engineering | F"
         ]
     },
@@ -1256,11 +1228,6 @@
     "201-15-3603": {
         "sgpa": 0.0,
         "name": "KH. Abrarul Islam Tanjim",
-        "cTitleNgLetter": []
-    },
-    "201-15-3526": {
-        "sgpa": 0.0,
-        "name": "NAIEM MIA ",
         "cTitleNgLetter": []
     },
     "181-15-1921": {
