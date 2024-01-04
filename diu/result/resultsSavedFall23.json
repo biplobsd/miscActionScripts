@@ -1063,6 +1063,20 @@
             "Web Engineering | F"
         ]
     },
+    "201-15-3209": {
+        "sgpa": 2.25,
+        "name": "Zannatul Mawya Priya ",
+        "cTitleNgLetter": [
+            "Big Data and IoT | B-",
+            "Computer Graphics Lab | C+",
+            "Computer Graphics | C+",
+            "Natural Language Processing | C",
+            "Software Engineering | C+",
+            "Software Project VI | B",
+            "Web Engineering Lab | D",
+            "Web Engineering | F"
+        ]
+    },
     "201-15-3534": {
         "sgpa": 2.2,
         "name": "Mahamudul Hassan Joy",
@@ -1309,20 +1323,6 @@
         "name": "Md Rabbi Hasan",
         "cTitleNgLetter": []
     },
-    "201-15-3263": {
-        "sgpa": 0.0,
-        "name": "AAHAD RAIHAN SIKTO ",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | I",
-            "Artificial Intelligence | I",
-            "Computer Networks Lab | I",
-            "Computer Networks | I",
-            "Database Management System Lab | F",
-            "Database Management System | F",
-            "Math for Computer Science | I",
-            "Software Project IV | I"
-        ]
-    },
     "201-15-14273": {
         "sgpa": 0.0,
         "name": "ABDULLAH AL ASIB",
@@ -1336,6 +1336,16 @@
     "193-15-3028": {
         "sgpa": 0.0,
         "name": "Tanvir Hosain",
+        "cTitleNgLetter": []
+    },
+    "203-15-3908": {
+        "sgpa": 0.0,
+        "name": "Md. Asif Haider",
+        "cTitleNgLetter": []
+    },
+    "201-15-3621": {
+        "sgpa": 0.0,
+        "name": "Md. Morsalin",
         "cTitleNgLetter": []
     }
 }
