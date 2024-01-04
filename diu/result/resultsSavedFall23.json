@@ -141,6 +141,20 @@
             "Web Engineering | B+"
         ]
     },
+    "203-15-3882": {
+        "sgpa": 3.57,
+        "name": "Samsun Naher Asme ",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | A-",
+            "Big Data and IoT | C+",
+            "Computer Graphics | A",
+            "Natural Language Processing | A",
+            "Software Engineering | A-",
+            "Software Project VI | A+",
+            "Web Engineering Lab | A",
+            "Web Engineering | A-"
+        ]
+    },
     "203-15-3906": {
         "sgpa": 3.55,
         "name": "Arnob Dey ",
@@ -354,12 +368,12 @@
         "name": "Md.Likhon Mia",
         "cTitleNgLetter": [
             "Big Data and IoT | B+",
-            "Computer Graphics Lab | Teaching evaluation is pending",
+            "Computer Graphics Lab | B",
             "Computer Graphics | Teaching evaluation is pending",
             "Natural Language Processing | Teaching evaluation is pending",
             "Software Engineering | A-",
             "Software Project VI | Teaching evaluation is pending",
-            "Web Engineering Lab | Teaching evaluation is pending",
+            "Web Engineering Lab | B",
             "Web Engineering | Teaching evaluation is pending"
         ]
     },
@@ -513,16 +527,18 @@
             "Web Engineering | C+"
         ]
     },
-    "162-15-1079": {
+    "203-15-3889": {
         "sgpa": 3.04,
-        "name": "Sultan Mahmud Shawon",
+        "name": "Md. Tahamid Rayhan ",
         "cTitleNgLetter": [
-            "Computer Networks Lab | A+",
-            "Computer Networks | C",
-            "Database Management System Lab | B+",
-            "Database Management System | B-",
-            "Economics | A+",
-            "Numerical Methods | B-"
+            "Big Data and IoT Lab | B+",
+            "Big Data and IoT | C",
+            "Computer Graphics | C+",
+            "Natural Language Processing | B+",
+            "Software Engineering | B+",
+            "Software Project VI | A",
+            "Web Engineering Lab | B",
+            "Web Engineering | D"
         ]
     },
     "201-15-3397": {
@@ -807,6 +823,48 @@
             "Introduction to Robotics | B-",
             "Simulation and Modeling Lab | A-",
             "Simulation and Modeling | C+"
+        ]
+    },
+    "181-15-2017": {
+        "sgpa": 2.67,
+        "name": "Md. Sujan Ahmed ",
+        "cTitleNgLetter": [
+            "Computer Graphics Lab | C+",
+            "Computer Graphics | D",
+            "Data Mining | B+",
+            "Embedded Systems | B-",
+            "Simulation and Modeling Lab | B+",
+            "Simulation and Modeling | C+",
+            "Web Engineering Lab | B+",
+            "Web Engineering | C+"
+        ]
+    },
+    "203-15-3857": {
+        "sgpa": 2.66,
+        "name": "Ritwika Dey Risha",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | C",
+            "Big Data and IoT | C+",
+            "Computer Graphics | B",
+            "Natural Language Processing | B",
+            "Software Engineering | B+",
+            "Software Project VI | C+",
+            "Web Engineering Lab | D",
+            "Web Engineering | D"
+        ]
+    },
+    "203-15-3868": {
+        "sgpa": 2.64,
+        "name": "Nafi Bin Monsoor Alvi",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | B+",
+            "Big Data and IoT | C",
+            "Computer Graphics | B",
+            "Natural Language Processing | B+",
+            "Software Engineering | A-",
+            "Software Project VI | B",
+            "Web Engineering Lab | F",
+            "Web Engineering | D"
         ]
     },
     "193-15-2998": {
@@ -1275,20 +1333,6 @@
         "sgpa": 0.0,
         "name": "Md. Asif Haider",
         "cTitleNgLetter": []
-    },
-    "203-15-3889": {
-        "sgpa": 0.0,
-        "name": "Md. Tahamid Rayhan ",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | Teaching evaluation is pending",
-            "Big Data and IoT | Teaching evaluation is pending",
-            "Computer Graphics | Teaching evaluation is pending",
-            "Natural Language Processing | Teaching evaluation is pending",
-            "Software Engineering | Teaching evaluation is pending",
-            "Software Project VI | Teaching evaluation is pending",
-            "Web Engineering Lab | Teaching evaluation is pending",
-            "Web Engineering | Teaching evaluation is pending"
-        ]
     },
     "201-15-3283": {
         "sgpa": 0.0,
