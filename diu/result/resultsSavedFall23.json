@@ -1277,11 +1277,6 @@
             "Web Engineering | Teaching evaluation is pending"
         ]
     },
-    "191-15-2612": {
-        "sgpa": 0.0,
-        "name": "Md Rabbi Hasan",
-        "cTitleNgLetter": []
-    },
     "201-15-14273": {
         "sgpa": 0.0,
         "name": "ABDULLAH AL ASIB",
@@ -1355,6 +1350,11 @@
     "201-15-3526": {
         "sgpa": 0.0,
         "name": "NAIEM MIA ",
+        "cTitleNgLetter": []
+    },
+    "203-15-3908": {
+        "sgpa": 0.0,
+        "name": "Md. Asif Haider",
         "cTitleNgLetter": []
     }
 }
