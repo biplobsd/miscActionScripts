@@ -433,6 +433,20 @@
             "Web Engineering | B"
         ]
     },
+    "203-15-14572": {
+        "sgpa": 3.2,
+        "name": "Md. Golam Kibria",
+        "cTitleNgLetter": [
+            "Big Data and IoT | A-",
+            "Computer Graphics Lab | B",
+            "Computer Graphics | B+",
+            "Natural Language Processing | A-",
+            "Software Engineering | A-",
+            "Software Project VI | B+",
+            "Web Engineering Lab | B-",
+            "Web Engineering | C"
+        ]
+    },
     "203-15-3923": {
         "sgpa": 3.13,
         "name": "Biplob Kumar Sutradhar",
@@ -539,6 +553,18 @@
             "Software Project VI | A",
             "Web Engineering Lab | B",
             "Web Engineering | D"
+        ]
+    },
+    "162-15-1079": {
+        "sgpa": 3.04,
+        "name": "Sultan Mahmud Shawon",
+        "cTitleNgLetter": [
+            "Computer Networks Lab | A+",
+            "Computer Networks | C",
+            "Database Management System Lab | B+",
+            "Database Management System | B-",
+            "Economics | A+",
+            "Numerical Methods | B-"
         ]
     },
     "201-15-3397": {
@@ -1124,6 +1150,17 @@
             "System Analysis and Design | Teaching evaluation is pending"
         ]
     },
+    "203-15-3863": {
+        "sgpa": 1.35,
+        "name": "Md. Mokaddus Hossain Abid ",
+        "cTitleNgLetter": [
+            "Basic Electronics Lab | B-",
+            "Basic Electronics | F",
+            "Engineering Mathematics | W",
+            "Object Oriented Programming Lab | D",
+            "Object Oriented Programming | D"
+        ]
+    },
     "203-15-3926": {
         "sgpa": 1.27,
         "name": "Mehedi Hasan Lipo",
@@ -1221,11 +1258,6 @@
         "name": "Md.Nahid Hasan",
         "cTitleNgLetter": []
     },
-    "193-15-3028": {
-        "sgpa": 0.0,
-        "name": "Tanvir Hosain",
-        "cTitleNgLetter": []
-    },
     "181-15-1096": {
         "sgpa": 0.0,
         "name": "Sadekul Alam",
@@ -1294,11 +1326,6 @@
     "191-15-2612": {
         "sgpa": 0.0,
         "name": "Md Rabbi Hasan",
-        "cTitleNgLetter": []
-    },
-    "181-15-1852": {
-        "sgpa": 0.0,
-        "name": "Md. Redoy Ahmed ",
         "cTitleNgLetter": []
     },
     "201-15-3263": {
