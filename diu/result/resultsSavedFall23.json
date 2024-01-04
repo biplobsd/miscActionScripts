@@ -279,6 +279,20 @@
             "Web Engineering | C+"
         ]
     },
+    "203-15-3887": {
+        "sgpa": 3.39,
+        "name": "Jahid Imran",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | B+",
+            "Big Data and IoT | B-",
+            "Computer Graphics | A+",
+            "Natural Language Processing | A-",
+            "Software Engineering | A-",
+            "Software Project VI | A",
+            "Web Engineering Lab | B-",
+            "Web Engineering | A+"
+        ]
+    },
     "201-15-3470": {
         "sgpa": 3.38,
         "name": "S. M. MARUF HOSSAIN ",
@@ -1258,11 +1272,6 @@
             "Web Engineering | Teaching evaluation is pending"
         ]
     },
-    "181-15-1852": {
-        "sgpa": 0.0,
-        "name": "Md. Redoy Ahmed ",
-        "cTitleNgLetter": []
-    },
     "193-15-3028": {
         "sgpa": 0.0,
         "name": "Tanvir Hosain",
@@ -1341,6 +1350,11 @@
     "201-15-3603": {
         "sgpa": 0.0,
         "name": "KH. Abrarul Islam Tanjim",
+        "cTitleNgLetter": []
+    },
+    "201-15-14273": {
+        "sgpa": 0.0,
+        "name": "ABDULLAH AL ASIB",
         "cTitleNgLetter": []
     }
 }
