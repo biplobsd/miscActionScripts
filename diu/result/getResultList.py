@@ -57,11 +57,11 @@ def clearLine(l=50):
 
 def fetchData(url, id):
     # http://software.diu.edu.bd:8189/result/semesterList
-    return requests.get(url, params={"semesterId": 231, "studentId": id, "grecaptcha": None}, verify=False)
+    return requests.get(url, params={"semesterId": 233, "studentId": id, "grecaptcha": None}, verify=False)
 
 
 if __name__ == "__main__":
-    saveFileName = "resultsSavedSpring23.json"
+    saveFileName = "resultsSavedFall23.json"
     url = "http://software.diu.edu.bd:8189/result"
 
     urlInfo = f'{url}/studentInfo'
