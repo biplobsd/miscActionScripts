@@ -527,20 +527,6 @@
             "System Analysis and Design | B+"
         ]
     },
-    "203-15-3870": {
-        "sgpa": 3.04,
-        "name": "Md. Anowar Hossain ",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | B-",
-            "Big Data and IoT | Teaching evaluation is pending",
-            "Computer Graphics | Teaching evaluation is pending",
-            "Natural Language Processing | Teaching evaluation is pending",
-            "Software Engineering | Teaching evaluation is pending",
-            "Software Project VI | Teaching evaluation is pending",
-            "Web Engineering Lab | Teaching evaluation is pending",
-            "Web Engineering | C+"
-        ]
-    },
     "203-15-3889": {
         "sgpa": 3.04,
         "name": "Md. Tahamid Rayhan ",
@@ -639,6 +625,19 @@
             "Web Engineering | B-"
         ]
     },
+    "201-15-3692": {
+        "sgpa": 2.91,
+        "name": "Galib Al Jadid ",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | A-",
+            "Big Data and IoT | B",
+            "Computer Graphics | B",
+            "Software Engineering | B",
+            "Software Project VI | A-",
+            "Web Engineering Lab | C",
+            "Web Engineering | D"
+        ]
+    },
     "201-15-3559": {
         "sgpa": 2.89,
         "name": "Md. Azhar Uddin Imran",
@@ -693,20 +692,6 @@
             "Software Engineering | Teaching evaluation is pending",
             "Software Project VI | B",
             "Web Engineering Lab | C+",
-            "Web Engineering | B"
-        ]
-    },
-    "203-15-3865": {
-        "sgpa": 2.8,
-        "name": "Shekh Naziullah ",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | B-",
-            "Big Data and IoT | B-",
-            "Computer Graphics | A-",
-            "Natural Language Processing | B+",
-            "Software Engineering | A",
-            "Software Project VI | A-",
-            "Web Engineering Lab | F",
             "Web Engineering | B"
         ]
     },
