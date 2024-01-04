@@ -197,6 +197,20 @@
             "Web Engineering | A+"
         ]
     },
+    "191-15-2716": {
+        "sgpa": 3.48,
+        "name": "Shawkat Uddin Akanda",
+        "cTitleNgLetter": [
+            "Big Data and IoT | A+",
+            "Computer Graphics Lab | B+",
+            "Computer Graphics | B+",
+            "Natural Language Processing | A+",
+            "Software Engineering | A+",
+            "Software Project VI | B+",
+            "Web Engineering Lab | C+",
+            "Web Engineering | B-"
+        ]
+    },
     "181-15-955": {
         "sgpa": 3.46,
         "name": "Mashiur Rahman",
@@ -250,20 +264,6 @@
             "Software Project VI | A+",
             "Web Engineering Lab | B+",
             "Web Engineering | B-"
-        ]
-    },
-    "203-15-3887": {
-        "sgpa": 3.39,
-        "name": "Jahid Imran",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | B+",
-            "Big Data and IoT | B-",
-            "Computer Graphics | A+",
-            "Natural Language Processing | A-",
-            "Software Engineering | A-",
-            "Software Project VI | A",
-            "Web Engineering Lab | B-",
-            "Web Engineering | A+"
         ]
     },
     "201-15-3691": {
@@ -1049,6 +1049,20 @@
             "Web Engineering | F"
         ]
     },
+    "201-15-3209": {
+        "sgpa": 2.25,
+        "name": "Zannatul Mawya Priya ",
+        "cTitleNgLetter": [
+            "Big Data and IoT | B-",
+            "Computer Graphics Lab | C+",
+            "Computer Graphics | C+",
+            "Natural Language Processing | C",
+            "Software Engineering | C+",
+            "Software Project VI | B",
+            "Web Engineering Lab | D",
+            "Web Engineering | F"
+        ]
+    },
     "201-15-3534": {
         "sgpa": 2.2,
         "name": "Mahamudul Hassan Joy",
@@ -1244,11 +1258,6 @@
             "Web Engineering | Teaching evaluation is pending"
         ]
     },
-    "201-15-14273": {
-        "sgpa": 0.0,
-        "name": "ABDULLAH AL ASIB",
-        "cTitleNgLetter": []
-    },
     "181-15-1852": {
         "sgpa": 0.0,
         "name": "Md. Redoy Ahmed ",
@@ -1327,6 +1336,11 @@
     "191-15-2612": {
         "sgpa": 0.0,
         "name": "Md Rabbi Hasan",
+        "cTitleNgLetter": []
+    },
+    "201-15-3603": {
+        "sgpa": 0.0,
+        "name": "KH. Abrarul Islam Tanjim",
         "cTitleNgLetter": []
     }
 }
