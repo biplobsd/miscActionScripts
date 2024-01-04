@@ -405,6 +405,20 @@
             "Web Engineering | B-"
         ]
     },
+    "203-15-3867": {
+        "sgpa": 3.21,
+        "name": "Md Akil Hasan ",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | Teaching evaluation is pending",
+            "Big Data and IoT | Teaching evaluation is pending",
+            "Computer Graphics | Teaching evaluation is pending",
+            "Natural Language Processing | Teaching evaluation is pending",
+            "Software Engineering | Teaching evaluation is pending",
+            "Software Project VI | A",
+            "Web Engineering Lab | C+",
+            "Web Engineering | Teaching evaluation is pending"
+        ]
+    },
     "203-15-3913": {
         "sgpa": 3.2,
         "name": "Md. Robiul Awoal ",
@@ -1049,20 +1063,6 @@
             "Web Engineering | F"
         ]
     },
-    "201-15-3209": {
-        "sgpa": 2.25,
-        "name": "Zannatul Mawya Priya ",
-        "cTitleNgLetter": [
-            "Big Data and IoT | B-",
-            "Computer Graphics Lab | C+",
-            "Computer Graphics | C+",
-            "Natural Language Processing | C",
-            "Software Engineering | C+",
-            "Software Project VI | B",
-            "Web Engineering Lab | D",
-            "Web Engineering | F"
-        ]
-    },
     "201-15-3534": {
         "sgpa": 2.2,
         "name": "Mahamudul Hassan Joy",
@@ -1288,11 +1288,6 @@
             "Web Engineering | Teaching evaluation is pending"
         ]
     },
-    "203-15-3908": {
-        "sgpa": 0.0,
-        "name": "Md. Asif Haider",
-        "cTitleNgLetter": []
-    },
     "201-15-3283": {
         "sgpa": 0.0,
         "name": "Mazharul Islam",
@@ -1331,11 +1326,6 @@
     "201-15-14273": {
         "sgpa": 0.0,
         "name": "ABDULLAH AL ASIB",
-        "cTitleNgLetter": []
-    },
-    "201-15-3621": {
-        "sgpa": 0.0,
-        "name": "Md. Morsalin",
         "cTitleNgLetter": []
     },
     "181-15-1852": {
