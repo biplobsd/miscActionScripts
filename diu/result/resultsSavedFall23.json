@@ -83,19 +83,6 @@
             "Web Engineering | A-"
         ]
     },
-    "203-15-14491": {
-        "sgpa": 3.81,
-        "name": "Salman",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | A+",
-            "Big Data and IoT | A+",
-            "Computer Graphics Lab | A-",
-            "Computer Graphics | A-",
-            "Software Engineering | A",
-            "Web Engineering Lab | A+",
-            "Web Engineering | A+"
-        ]
-    },
     "203-15-14513": {
         "sgpa": 3.79,
         "name": "Md. Shakhawat Hossain",
@@ -167,6 +154,20 @@
             "Software Project VI | A+",
             "Web Engineering Lab | A",
             "Web Engineering | A-"
+        ]
+    },
+    "203-15-3906": {
+        "sgpa": 3.55,
+        "name": "Arnob Dey ",
+        "cTitleNgLetter": [
+            "Big Data and IoT | B+",
+            "Computer Graphics Lab | A+",
+            "Computer Graphics | B+",
+            "Natural Language Processing | B",
+            "Software Engineering | A+",
+            "Software Project VI | A+",
+            "Web Engineering Lab | A-",
+            "Web Engineering | B+"
         ]
     },
     "203-15-3871": {
@@ -765,20 +766,6 @@
             "System Analysis and Design | B+"
         ]
     },
-    "202-15-14433": {
-        "sgpa": 2.73,
-        "name": "Md. Shihab Ullah",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | B+",
-            "Big Data and IoT | C+",
-            "Computer Graphics | C+",
-            "Natural Language Processing | A-",
-            "Software Engineering | A",
-            "Software Project VI | B",
-            "Web Engineering Lab | F",
-            "Web Engineering | D"
-        ]
-    },
     "203-15-3877": {
         "sgpa": 2.71,
         "name": "Faiza Noshin Tithi",
@@ -1319,11 +1306,6 @@
             "Software Project IV | I"
         ]
     },
-    "201-15-3526": {
-        "sgpa": 0.0,
-        "name": "NAIEM MIA ",
-        "cTitleNgLetter": []
-    },
     "181-15-1096": {
         "sgpa": 0.0,
         "name": "Sadekul Alam",
@@ -1333,5 +1315,19 @@
         "sgpa": 0.0,
         "name": "Tanvir Hosain",
         "cTitleNgLetter": []
+    },
+    "203-15-3917": {
+        "sgpa": 0.0,
+        "name": "Tania Akter",
+        "cTitleNgLetter": [
+            "Big Data and IoT | Teaching evaluation is pending",
+            "Computer Graphics Lab | Teaching evaluation is pending",
+            "Computer Graphics | Teaching evaluation is pending",
+            "Natural Language Processing | Teaching evaluation is pending",
+            "Software Engineering | Teaching evaluation is pending",
+            "Software Project VI | Teaching evaluation is pending",
+            "Web Engineering Lab | Teaching evaluation is pending",
+            "Web Engineering | Teaching evaluation is pending"
+        ]
     }
 }
