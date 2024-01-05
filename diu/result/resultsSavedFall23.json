@@ -141,20 +141,6 @@
             "Web Engineering | B-"
         ]
     },
-    "203-15-3858": {
-        "sgpa": 3.73,
-        "name": "Israt Jahan ",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | A-",
-            "Big Data and IoT | A-",
-            "Computer Graphics | A+",
-            "Natural Language Processing | A+",
-            "Software Engineering | A",
-            "Software Project VI | A",
-            "Web Engineering Lab | A",
-            "Web Engineering | B+"
-        ]
-    },
     "203-15-3882": {
         "sgpa": 3.57,
         "name": "Samsun Naher Asme ",
@@ -197,17 +183,18 @@
             "Web Engineering | A+"
         ]
     },
-    "181-15-955": {
-        "sgpa": 3.46,
-        "name": "Mashiur Rahman",
+    "191-15-2716": {
+        "sgpa": 3.48,
+        "name": "Shawkat Uddin Akanda",
         "cTitleNgLetter": [
-            "Computer Graphics Lab | A+",
-            "Computer Graphics | A-",
-            "Data Mining | A+",
-            "Embedded Systems | B+",
-            "Introduction to Robotics | B",
-            "Simulation and Modeling Lab | B",
-            "Simulation and Modeling | A-"
+            "Big Data and IoT | A+",
+            "Computer Graphics Lab | B+",
+            "Computer Graphics | B+",
+            "Natural Language Processing | A+",
+            "Software Engineering | A+",
+            "Software Project VI | B+",
+            "Web Engineering Lab | C+",
+            "Web Engineering | B-"
         ]
     },
     "203-15-3924": {
@@ -250,6 +237,20 @@
             "Software Project VI | A+",
             "Web Engineering Lab | B+",
             "Web Engineering | B-"
+        ]
+    },
+    "181-15-955": {
+        "sgpa": 3.39,
+        "name": "Mashiur Rahman",
+        "cTitleNgLetter": [
+            "Computer Graphics Lab | A+",
+            "Computer Graphics | A-",
+            "Data Mining | A+",
+            "Embedded Systems | B+",
+            "Introduction to Robotics | B",
+            "Simulation and Modeling Lab | B",
+            "Simulation and Modeling | A-",
+            "Social and Professional Issues in Computing | B"
         ]
     },
     "201-15-3691": {
@@ -784,6 +785,20 @@
             "Web Engineering | D"
         ]
     },
+    "203-15-3877": {
+        "sgpa": 2.71,
+        "name": "Faiza Noshin Tithi",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | B",
+            "Big Data and IoT | C+",
+            "Computer Graphics | B+",
+            "Natural Language Processing | B-",
+            "Software Engineering | A-",
+            "Software Project VI | A-",
+            "Web Engineering Lab | D",
+            "Web Engineering | F"
+        ]
+    },
     "193-15-2947": {
         "sgpa": 2.7,
         "name": "Md Enamul Huq",
@@ -1286,11 +1301,6 @@
             "System Analysis and Design | F"
         ]
     },
-    "201-15-3603": {
-        "sgpa": 0.0,
-        "name": "KH. Abrarul Islam Tanjim",
-        "cTitleNgLetter": []
-    },
     "191-15-2612": {
         "sgpa": 0.0,
         "name": "Md Rabbi Hasan",
@@ -1334,5 +1344,21 @@
         "sgpa": 0.0,
         "name": "Md.Nahid Hasan",
         "cTitleNgLetter": []
+    },
+    "201-15-3263": {
+        "sgpa": 0.0,
+        "name": "AAHAD RAIHAN SIKTO ",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | I",
+            "Artificial Intelligence | I",
+            "Computer Networks Lab | I",
+            "Computer Networks | I",
+            "Database Management System Lab | F",
+            "Database Management System | F",
+            "Math for Computer Science | I",
+            "Microprocessor, Embedded Systems and IoT Lab | I",
+            "Microprocessor, Embedded Systems and IoT | I",
+            "Software Project IV | I"
+        ]
     }
 }
