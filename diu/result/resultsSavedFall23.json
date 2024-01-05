@@ -83,6 +83,19 @@
             "Web Engineering | A-"
         ]
     },
+    "203-15-14491": {
+        "sgpa": 3.81,
+        "name": "Salman",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | A+",
+            "Big Data and IoT | A+",
+            "Computer Graphics Lab | A-",
+            "Computer Graphics | A-",
+            "Software Engineering | A",
+            "Web Engineering Lab | A+",
+            "Web Engineering | A+"
+        ]
+    },
     "203-15-14513": {
         "sgpa": 3.79,
         "name": "Md. Shakhawat Hossain",
@@ -769,6 +782,20 @@
             "Software Engineering | B",
             "Software Project VI | A",
             "Web Engineering Lab | C+",
+            "Web Engineering | D"
+        ]
+    },
+    "202-15-14433": {
+        "sgpa": 2.73,
+        "name": "Md. Shihab Ullah",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | B+",
+            "Big Data and IoT | C+",
+            "Computer Graphics | C+",
+            "Natural Language Processing | A-",
+            "Software Engineering | A",
+            "Software Project VI | B",
+            "Web Engineering Lab | F",
             "Web Engineering | D"
         ]
     },
