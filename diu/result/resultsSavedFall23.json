@@ -83,6 +83,19 @@
             "Web Engineering | A-"
         ]
     },
+    "203-15-14491": {
+        "sgpa": 3.81,
+        "name": "Salman",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | A+",
+            "Big Data and IoT | A+",
+            "Computer Graphics Lab | A-",
+            "Computer Graphics | A-",
+            "Software Engineering | A",
+            "Web Engineering Lab | A+",
+            "Web Engineering | A+"
+        ]
+    },
     "203-15-14513": {
         "sgpa": 3.79,
         "name": "Md. Shakhawat Hossain",
@@ -631,6 +644,19 @@
             "Web Engineering | B-"
         ]
     },
+    "201-15-3692": {
+        "sgpa": 2.91,
+        "name": "Galib Al Jadid ",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | A-",
+            "Big Data and IoT | B",
+            "Computer Graphics | B",
+            "Software Engineering | B",
+            "Software Project VI | A-",
+            "Web Engineering Lab | C",
+            "Web Engineering | D"
+        ]
+    },
     "201-15-3559": {
         "sgpa": 2.89,
         "name": "Md. Azhar Uddin Imran",
@@ -771,6 +797,20 @@
             "Software Project VI | B",
             "Web Engineering Lab | F",
             "Web Engineering | D"
+        ]
+    },
+    "203-15-3877": {
+        "sgpa": 2.71,
+        "name": "Faiza Noshin Tithi",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | B",
+            "Big Data and IoT | C+",
+            "Computer Graphics | B+",
+            "Natural Language Processing | B-",
+            "Software Engineering | A-",
+            "Software Project VI | A-",
+            "Web Engineering Lab | D",
+            "Web Engineering | F"
         ]
     },
     "193-15-2947": {
@@ -1258,11 +1298,6 @@
     "181-15-968": {
         "sgpa": 0.0,
         "name": "Rokaya Akter Taiyaba",
-        "cTitleNgLetter": []
-    },
-    "181-15-2070": {
-        "sgpa": 0.0,
-        "name": "Mazharul Alam ",
         "cTitleNgLetter": []
     },
     "181-15-285": {
