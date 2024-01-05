@@ -1130,21 +1130,6 @@
             "Web Engineering | F"
         ]
     },
-    "203-15-3873": {
-        "sgpa": 2.03,
-        "name": "Md.Tanvir Siddik",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | B-",
-            "Big Data and IoT | F",
-            "Computer Graphics | C",
-            "Data Mining and Machine Learning | C+",
-            "Natural Language Processing | C",
-            "Software Engineering | B+",
-            "Software Project VI | B+",
-            "Web Engineering Lab | F",
-            "Web Engineering | F"
-        ]
-    },
     "203-15-3910": {
         "sgpa": 1.72,
         "name": "Amena Khatun ",
@@ -1300,22 +1285,6 @@
         "name": "Md.Nahid Hasan",
         "cTitleNgLetter": []
     },
-    "201-15-3263": {
-        "sgpa": 0.0,
-        "name": "AAHAD RAIHAN SIKTO ",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | I",
-            "Artificial Intelligence | I",
-            "Computer Networks Lab | I",
-            "Computer Networks | I",
-            "Database Management System Lab | F",
-            "Database Management System | F",
-            "Math for Computer Science | I",
-            "Microprocessor, Embedded Systems and IoT Lab | I",
-            "Microprocessor, Embedded Systems and IoT | I",
-            "Software Project IV | I"
-        ]
-    },
     "143-15-4546": {
         "sgpa": 0.0,
         "name": "Zamiul Islam",
@@ -1373,6 +1342,11 @@
     "181-15-2070": {
         "sgpa": 0.0,
         "name": "Mazharul Alam ",
+        "cTitleNgLetter": []
+    },
+    "181-15-968": {
+        "sgpa": 0.0,
+        "name": "Rokaya Akter Taiyaba",
         "cTitleNgLetter": []
     }
 }
