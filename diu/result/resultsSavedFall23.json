@@ -83,19 +83,6 @@
             "Web Engineering | A-"
         ]
     },
-    "203-15-14491": {
-        "sgpa": 3.81,
-        "name": "Salman",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | A+",
-            "Big Data and IoT | A+",
-            "Computer Graphics Lab | A-",
-            "Computer Graphics | A-",
-            "Software Engineering | A",
-            "Web Engineering Lab | A+",
-            "Web Engineering | A+"
-        ]
-    },
     "203-15-14513": {
         "sgpa": 3.79,
         "name": "Md. Shakhawat Hossain",
@@ -1161,6 +1148,17 @@
             "System Analysis and Design | Teaching evaluation is pending"
         ]
     },
+    "203-15-3863": {
+        "sgpa": 1.35,
+        "name": "Md. Mokaddus Hossain Abid ",
+        "cTitleNgLetter": [
+            "Basic Electronics Lab | B-",
+            "Basic Electronics | F",
+            "Engineering Mathematics | W",
+            "Object Oriented Programming Lab | D",
+            "Object Oriented Programming | D"
+        ]
+    },
     "193-15-2972": {
         "sgpa": 1.25,
         "name": "Mst. Zannatul Ferdousi  ",
@@ -1363,5 +1361,10 @@
             "Microprocessor, Embedded Systems and IoT | I",
             "Software Project IV | I"
         ]
+    },
+    "181-15-2070": {
+        "sgpa": 0.0,
+        "name": "Mazharul Alam ",
+        "cTitleNgLetter": []
     }
 }
