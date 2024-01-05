@@ -155,6 +155,20 @@
             "Web Engineering | B+"
         ]
     },
+    "203-15-3882": {
+        "sgpa": 3.57,
+        "name": "Samsun Naher Asme ",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | A-",
+            "Big Data and IoT | C+",
+            "Computer Graphics | A",
+            "Natural Language Processing | A",
+            "Software Engineering | A-",
+            "Software Project VI | A+",
+            "Web Engineering Lab | A",
+            "Web Engineering | A-"
+        ]
+    },
     "203-15-3906": {
         "sgpa": 3.55,
         "name": "Arnob Dey ",
@@ -277,6 +291,20 @@
             "Software Project VI | A",
             "Web Engineering Lab | B-",
             "Web Engineering | A+"
+        ]
+    },
+    "201-15-3470": {
+        "sgpa": 3.38,
+        "name": "S. M. MARUF HOSSAIN ",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | A-",
+            "Big Data and IoT | B+",
+            "Computer Graphics | A-",
+            "Natural Language Processing | B",
+            "Software Engineering | A-",
+            "Software Project VI | A",
+            "Web Engineering Lab | A-",
+            "Web Engineering | B+"
         ]
     },
     "203-15-3876": {
@@ -1011,11 +1039,11 @@
         "sgpa": 2.34,
         "name": "Md. Shayed Hasan Shakib ",
         "cTitleNgLetter": [
-            "Big Data and IoT Lab | Teaching evaluation is pending",
-            "Big Data and IoT | Teaching evaluation is pending",
-            "Computer Graphics | Teaching evaluation is pending",
-            "Natural Language Processing | Teaching evaluation is pending",
-            "Software Engineering | Teaching evaluation is pending",
+            "Big Data and IoT Lab | C+",
+            "Big Data and IoT | D",
+            "Computer Graphics | B+",
+            "Natural Language Processing | C+",
+            "Software Engineering | A",
             "Software Project VI | A",
             "Web Engineering Lab | F",
             "Web Engineering | F"
@@ -1281,20 +1309,6 @@
         "name": "Tanvir Hosain",
         "cTitleNgLetter": []
     },
-    "203-15-3917": {
-        "sgpa": 0.0,
-        "name": "Tania Akter",
-        "cTitleNgLetter": [
-            "Big Data and IoT | Teaching evaluation is pending",
-            "Computer Graphics Lab | Teaching evaluation is pending",
-            "Computer Graphics | Teaching evaluation is pending",
-            "Natural Language Processing | Teaching evaluation is pending",
-            "Software Engineering | Teaching evaluation is pending",
-            "Software Project VI | Teaching evaluation is pending",
-            "Web Engineering Lab | Teaching evaluation is pending",
-            "Web Engineering | Teaching evaluation is pending"
-        ]
-    },
     "201-15-3526": {
         "sgpa": 0.0,
         "name": "NAIEM MIA ",
@@ -1327,6 +1341,11 @@
     "201-15-3603": {
         "sgpa": 0.0,
         "name": "KH. Abrarul Islam Tanjim",
+        "cTitleNgLetter": []
+    },
+    "191-15-2612": {
+        "sgpa": 0.0,
+        "name": "Md Rabbi Hasan",
         "cTitleNgLetter": []
     }
 }
