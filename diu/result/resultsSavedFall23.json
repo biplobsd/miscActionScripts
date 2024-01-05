@@ -83,19 +83,6 @@
             "Web Engineering | A-"
         ]
     },
-    "203-15-14491": {
-        "sgpa": 3.81,
-        "name": "Salman",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | A+",
-            "Big Data and IoT | A+",
-            "Computer Graphics Lab | A-",
-            "Computer Graphics | A-",
-            "Software Engineering | A",
-            "Web Engineering Lab | A+",
-            "Web Engineering | A+"
-        ]
-    },
     "203-15-14513": {
         "sgpa": 3.79,
         "name": "Md. Shakhawat Hossain",
@@ -785,20 +772,6 @@
             "Web Engineering | D"
         ]
     },
-    "202-15-14433": {
-        "sgpa": 2.73,
-        "name": "Md. Shihab Ullah",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | B+",
-            "Big Data and IoT | C+",
-            "Computer Graphics | C+",
-            "Natural Language Processing | A-",
-            "Software Engineering | A",
-            "Software Project VI | B",
-            "Web Engineering Lab | F",
-            "Web Engineering | D"
-        ]
-    },
     "203-15-3877": {
         "sgpa": 2.71,
         "name": "Faiza Noshin Tithi",
@@ -1373,6 +1346,11 @@
     "191-15-2612": {
         "sgpa": 0.0,
         "name": "Md Rabbi Hasan",
+        "cTitleNgLetter": []
+    },
+    "181-15-2070": {
+        "sgpa": 0.0,
+        "name": "Mazharul Alam ",
         "cTitleNgLetter": []
     }
 }
