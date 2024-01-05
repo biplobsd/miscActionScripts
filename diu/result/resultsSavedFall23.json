@@ -183,6 +183,20 @@
             "Web Engineering | B+"
         ]
     },
+    "203-15-3871": {
+        "sgpa": 3.52,
+        "name": "Md. Rakibul Islam Shanto ",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | A-",
+            "Big Data and IoT | C",
+            "Computer Graphics | A+",
+            "Natural Language Processing | A-",
+            "Software Engineering | A-",
+            "Software Project VI | A+",
+            "Web Engineering Lab | A-",
+            "Web Engineering | A+"
+        ]
+    },
     "191-15-2716": {
         "sgpa": 3.48,
         "name": "Shawkat Uddin Akanda",
@@ -277,6 +291,20 @@
             "Software Project VI | A",
             "Web Engineering Lab | B-",
             "Web Engineering | A+"
+        ]
+    },
+    "201-15-3470": {
+        "sgpa": 3.38,
+        "name": "S. M. MARUF HOSSAIN ",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | A-",
+            "Big Data and IoT | B+",
+            "Computer Graphics | A-",
+            "Natural Language Processing | B",
+            "Software Engineering | A-",
+            "Software Project VI | A",
+            "Web Engineering Lab | A-",
+            "Web Engineering | B+"
         ]
     },
     "203-15-3876": {
@@ -550,20 +578,6 @@
             "Software Engineering | B+",
             "Software Project VI | B+",
             "Web Engineering Lab | D",
-            "Web Engineering | C+"
-        ]
-    },
-    "201-15-3520": {
-        "sgpa": 2.96,
-        "name": "SRIJAN BIR ",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | B+",
-            "Big Data and IoT | B",
-            "Computer Graphics | A-",
-            "Natural Language Processing | C+",
-            "Software Engineering | A",
-            "Software Project VI | C",
-            "Web Engineering Lab | C+",
             "Web Engineering | C+"
         ]
     },
@@ -1122,29 +1136,6 @@
             "System Analysis and Design | Teaching evaluation is pending"
         ]
     },
-    "203-15-3863": {
-        "sgpa": 1.35,
-        "name": "Md. Mokaddus Hossain Abid ",
-        "cTitleNgLetter": [
-            "Basic Electronics Lab | B-",
-            "Basic Electronics | F",
-            "Engineering Mathematics | W",
-            "Object Oriented Programming Lab | D",
-            "Object Oriented Programming | D"
-        ]
-    },
-    "203-15-3926": {
-        "sgpa": 1.27,
-        "name": "Mehedi Hasan Lipo",
-        "cTitleNgLetter": [
-            "Algorithm Lab | Teaching evaluation is pending",
-            "Algorithm | Teaching evaluation is pending",
-            "Data Communication | F",
-            "Digital Electronics Lab | B",
-            "Software Project III | I",
-            "Statistics and Probability | Teaching evaluation is pending"
-        ]
-    },
     "193-15-2972": {
         "sgpa": 1.25,
         "name": "Mst. Zannatul Ferdousi  ",
@@ -1327,6 +1318,11 @@
     "181-15-285": {
         "sgpa": 0.0,
         "name": "Md.Nahid Hasan",
+        "cTitleNgLetter": []
+    },
+    "201-15-3603": {
+        "sgpa": 0.0,
+        "name": "KH. Abrarul Islam Tanjim",
         "cTitleNgLetter": []
     }
 }
