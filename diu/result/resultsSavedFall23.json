@@ -155,20 +155,6 @@
             "Web Engineering | B+"
         ]
     },
-    "203-15-3882": {
-        "sgpa": 3.57,
-        "name": "Samsun Naher Asme ",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | A-",
-            "Big Data and IoT | C+",
-            "Computer Graphics | A",
-            "Natural Language Processing | A",
-            "Software Engineering | A-",
-            "Software Project VI | A+",
-            "Web Engineering Lab | A",
-            "Web Engineering | A-"
-        ]
-    },
     "203-15-3906": {
         "sgpa": 3.55,
         "name": "Arnob Dey ",
@@ -1187,6 +1173,20 @@
             "Web Engineering | F"
         ]
     },
+    "203-15-3859": {
+        "sgpa": 0.64,
+        "name": "Md. Afjal Hossain Shenam",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | F",
+            "Big Data and IoT | F",
+            "Computer Graphics | F",
+            "Natural Language Processing | F",
+            "Software Engineering | D",
+            "Software Project VI | B",
+            "Web Engineering Lab | I",
+            "Web Engineering | I"
+        ]
+    },
     "203-15-3892": {
         "sgpa": 0.62,
         "name": "Md. Mahfuj Sarker ",
@@ -1342,5 +1342,10 @@
             "Math for Computer Science | I",
             "Software Project IV | I"
         ]
+    },
+    "143-15-4546": {
+        "sgpa": 0.0,
+        "name": "Zamiul Islam",
+        "cTitleNgLetter": []
     }
 }
