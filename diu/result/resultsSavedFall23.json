@@ -807,6 +807,20 @@
             "Web Engineering | F"
         ]
     },
+    "193-15-2947": {
+        "sgpa": 2.7,
+        "name": "Md Enamul Huq",
+        "cTitleNgLetter": [
+            "Big Data and IoT | C+",
+            "Computer Graphics Lab | B",
+            "Computer Graphics | A-",
+            "Natural Language Processing | C+",
+            "Software Engineering | B-",
+            "Software Project VI | C+",
+            "Web Engineering Lab | B-",
+            "Web Engineering | D"
+        ]
+    },
     "203-15-3925": {
         "sgpa": 2.68,
         "name": "Md. Ashikur Rahman Shovo ",
@@ -1173,20 +1187,6 @@
             "Web Engineering | F"
         ]
     },
-    "203-15-3859": {
-        "sgpa": 0.64,
-        "name": "Md. Afjal Hossain Shenam",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | F",
-            "Big Data and IoT | F",
-            "Computer Graphics | F",
-            "Natural Language Processing | F",
-            "Software Engineering | D",
-            "Software Project VI | B",
-            "Web Engineering Lab | I",
-            "Web Engineering | I"
-        ]
-    },
     "203-15-3892": {
         "sgpa": 0.62,
         "name": "Md. Mahfuj Sarker ",
@@ -1290,11 +1290,6 @@
             "System Analysis and Design | F"
         ]
     },
-    "143-15-4546": {
-        "sgpa": 0.0,
-        "name": "Zamiul Islam",
-        "cTitleNgLetter": []
-    },
     "181-15-285": {
         "sgpa": 0.0,
         "name": "Md.Nahid Hasan",
@@ -1333,5 +1328,19 @@
         "sgpa": 0.0,
         "name": "ABDULLAH AL ASIB",
         "cTitleNgLetter": []
+    },
+    "201-15-3263": {
+        "sgpa": 0.0,
+        "name": "AAHAD RAIHAN SIKTO ",
+        "cTitleNgLetter": [
+            "Artificial Intelligence Lab | I",
+            "Artificial Intelligence | I",
+            "Computer Networks Lab | I",
+            "Computer Networks | I",
+            "Database Management System Lab | F",
+            "Database Management System | F",
+            "Math for Computer Science | I",
+            "Software Project IV | I"
+        ]
     }
 }
