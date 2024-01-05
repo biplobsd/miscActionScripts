@@ -411,7 +411,7 @@
         "cTitleNgLetter": [
             "Big Data and IoT Lab | Teaching evaluation is pending",
             "Big Data and IoT | Teaching evaluation is pending",
-            "Computer Graphics | Teaching evaluation is pending",
+            "Computer Graphics | A+",
             "Natural Language Processing | Teaching evaluation is pending",
             "Software Engineering | Teaching evaluation is pending",
             "Software Project VI | A",
@@ -1311,11 +1311,6 @@
             "System Analysis and Design | F"
         ]
     },
-    "181-15-285": {
-        "sgpa": 0.0,
-        "name": "Md.Nahid Hasan",
-        "cTitleNgLetter": []
-    },
     "201-15-3603": {
         "sgpa": 0.0,
         "name": "KH. Abrarul Islam Tanjim",
@@ -1369,6 +1364,11 @@
     "181-15-968": {
         "sgpa": 0.0,
         "name": "Rokaya Akter Taiyaba",
+        "cTitleNgLetter": []
+    },
+    "181-15-2070": {
+        "sgpa": 0.0,
+        "name": "Mazharul Alam ",
         "cTitleNgLetter": []
     }
 }
