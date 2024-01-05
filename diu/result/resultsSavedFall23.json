@@ -141,6 +141,20 @@
             "Web Engineering | B-"
         ]
     },
+    "203-15-3858": {
+        "sgpa": 3.73,
+        "name": "Israt Jahan ",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | A-",
+            "Big Data and IoT | A-",
+            "Computer Graphics | A+",
+            "Natural Language Processing | A+",
+            "Software Engineering | A",
+            "Software Project VI | A",
+            "Web Engineering Lab | A",
+            "Web Engineering | B+"
+        ]
+    },
     "203-15-3882": {
         "sgpa": 3.57,
         "name": "Samsun Naher Asme ",
@@ -1080,7 +1094,7 @@
         "cTitleNgLetter": [
             "Algorithm | B",
             "Big Data and IoT | D",
-            "Computer Graphics Lab | Teaching evaluation is pending",
+            "Computer Graphics Lab | B",
             "Computer Graphics | C+",
             "Natural Language Processing | C+",
             "Software Engineering | B",
@@ -1306,20 +1320,6 @@
         "name": "Md Rabbi Hasan",
         "cTitleNgLetter": []
     },
-    "203-15-3917": {
-        "sgpa": 0.0,
-        "name": "Tania Akter",
-        "cTitleNgLetter": [
-            "Big Data and IoT | Teaching evaluation is pending",
-            "Computer Graphics Lab | Teaching evaluation is pending",
-            "Computer Graphics | Teaching evaluation is pending",
-            "Natural Language Processing | Teaching evaluation is pending",
-            "Software Engineering | Teaching evaluation is pending",
-            "Software Project VI | Teaching evaluation is pending",
-            "Web Engineering Lab | Teaching evaluation is pending",
-            "Web Engineering | Teaching evaluation is pending"
-        ]
-    },
     "201-15-14273": {
         "sgpa": 0.0,
         "name": "ABDULLAH AL ASIB",
@@ -1360,5 +1360,10 @@
             "Microprocessor, Embedded Systems and IoT | I",
             "Software Project IV | I"
         ]
+    },
+    "201-15-3603": {
+        "sgpa": 0.0,
+        "name": "KH. Abrarul Islam Tanjim",
+        "cTitleNgLetter": []
     }
 }
