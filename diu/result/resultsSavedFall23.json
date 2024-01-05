@@ -83,6 +83,19 @@
             "Web Engineering | A-"
         ]
     },
+    "203-15-14491": {
+        "sgpa": 3.81,
+        "name": "Salman",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | A+",
+            "Big Data and IoT | A+",
+            "Computer Graphics Lab | A-",
+            "Computer Graphics | A-",
+            "Software Engineering | A",
+            "Web Engineering Lab | A+",
+            "Web Engineering | A+"
+        ]
+    },
     "203-15-14513": {
         "sgpa": 3.79,
         "name": "Md. Shakhawat Hossain",
@@ -766,18 +779,18 @@
             "System Analysis and Design | B+"
         ]
     },
-    "203-15-3877": {
-        "sgpa": 2.71,
-        "name": "Faiza Noshin Tithi",
+    "202-15-14433": {
+        "sgpa": 2.73,
+        "name": "Md. Shihab Ullah",
         "cTitleNgLetter": [
-            "Big Data and IoT Lab | B",
+            "Big Data and IoT Lab | B+",
             "Big Data and IoT | C+",
-            "Computer Graphics | B+",
-            "Natural Language Processing | B-",
-            "Software Engineering | A-",
-            "Software Project VI | A-",
-            "Web Engineering Lab | D",
-            "Web Engineering | F"
+            "Computer Graphics | C+",
+            "Natural Language Processing | A-",
+            "Software Engineering | A",
+            "Software Project VI | B",
+            "Web Engineering Lab | F",
+            "Web Engineering | D"
         ]
     },
     "193-15-2947": {
@@ -808,20 +821,6 @@
             "Software Project VI | B-",
             "Web Engineering Lab | D",
             "Web Engineering | D"
-        ]
-    },
-    "181-15-1723": {
-        "sgpa": 2.68,
-        "name": "Alauddin ",
-        "cTitleNgLetter": [
-            "Computer Architecture and Organization | C+",
-            "Computer Graphics Lab | B-",
-            "Computer Graphics | C+",
-            "Data Mining | C+",
-            "Embedded Systems | B",
-            "Introduction to Robotics | B-",
-            "Simulation and Modeling Lab | A-",
-            "Simulation and Modeling | C+"
         ]
     },
     "181-15-2017": {
@@ -1187,20 +1186,6 @@
             "Web Engineering | I"
         ]
     },
-    "201-15-3711": {
-        "sgpa": 0.0,
-        "name": "Sabikur Rahman",
-        "cTitleNgLetter": [
-            "Compiler Design | I",
-            "Data Mining and Machine Learning Lab | F",
-            "Data Mining and Machine Learning | I",
-            "Pervasive Computing and Mobile App Development Lab | F",
-            "Pervasive Computing | F",
-            "Research and Innovation | F",
-            "Software Engineering | I",
-            "System Analysis and Design | F"
-        ]
-    },
     "203-15-3874": {
         "sgpa": 0.0,
         "name": "Md. Robiul Islam ",
@@ -1329,5 +1314,10 @@
             "Web Engineering Lab | Teaching evaluation is pending",
             "Web Engineering | Teaching evaluation is pending"
         ]
+    },
+    "201-15-3526": {
+        "sgpa": 0.0,
+        "name": "NAIEM MIA ",
+        "cTitleNgLetter": []
     }
 }
