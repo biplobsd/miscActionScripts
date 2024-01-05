@@ -183,20 +183,6 @@
             "Web Engineering | B+"
         ]
     },
-    "203-15-3871": {
-        "sgpa": 3.52,
-        "name": "Md. Rakibul Islam Shanto ",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | A-",
-            "Big Data and IoT | C",
-            "Computer Graphics | A+",
-            "Natural Language Processing | A-",
-            "Software Engineering | A-",
-            "Software Project VI | A+",
-            "Web Engineering Lab | A-",
-            "Web Engineering | A+"
-        ]
-    },
     "191-15-2716": {
         "sgpa": 3.48,
         "name": "Shawkat Uddin Akanda",
@@ -291,20 +277,6 @@
             "Software Project VI | A",
             "Web Engineering Lab | B-",
             "Web Engineering | A+"
-        ]
-    },
-    "201-15-3470": {
-        "sgpa": 3.38,
-        "name": "S. M. MARUF HOSSAIN ",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | A-",
-            "Big Data and IoT | B+",
-            "Computer Graphics | A-",
-            "Natural Language Processing | B",
-            "Software Engineering | A-",
-            "Software Project VI | A",
-            "Web Engineering Lab | A-",
-            "Web Engineering | B+"
         ]
     },
     "203-15-3876": {
@@ -1254,11 +1226,6 @@
         "name": "Md Rabbi Hasan",
         "cTitleNgLetter": []
     },
-    "201-15-3603": {
-        "sgpa": 0.0,
-        "name": "KH. Abrarul Islam Tanjim",
-        "cTitleNgLetter": []
-    },
     "181-15-1852": {
         "sgpa": 0.0,
         "name": "Md. Redoy Ahmed ",
@@ -1355,6 +1322,11 @@
     "143-15-4546": {
         "sgpa": 0.0,
         "name": "Zamiul Islam",
+        "cTitleNgLetter": []
+    },
+    "181-15-285": {
+        "sgpa": 0.0,
+        "name": "Md.Nahid Hasan",
         "cTitleNgLetter": []
     }
 }
