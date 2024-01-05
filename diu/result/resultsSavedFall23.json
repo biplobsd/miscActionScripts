@@ -41,20 +41,6 @@
             "Web Engineering | A+"
         ]
     },
-    "203-15-3862": {
-        "sgpa": 3.86,
-        "name": "Sakir Hossain Faruque",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | A+",
-            "Big Data and IoT | B+",
-            "Computer Graphics | A+",
-            "Natural Language Processing | A+",
-            "Software Engineering | A",
-            "Software Project VI | A+",
-            "Web Engineering Lab | A",
-            "Web Engineering | A+"
-        ]
-    },
     "203-15-3881": {
         "sgpa": 3.84,
         "name": "Mahadi Hasan Munna",
@@ -558,20 +544,6 @@
             "Numerical Methods | B-"
         ]
     },
-    "203-15-3870": {
-        "sgpa": 3.04,
-        "name": "Md. Anowar Hossain ",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | B-",
-            "Big Data and IoT | B-",
-            "Computer Graphics | A-",
-            "Natural Language Processing | B+",
-            "Software Engineering | A-",
-            "Software Project VI | A-",
-            "Web Engineering Lab | C",
-            "Web Engineering | C+"
-        ]
-    },
     "201-15-3397": {
         "sgpa": 3.02,
         "name": "MD. AMIR HAMZA SHUVO ",
@@ -727,6 +699,20 @@
             "Research and Innovation | A+",
             "Software Engineering | B+",
             "System Analysis and Design | B+"
+        ]
+    },
+    "203-15-3865": {
+        "sgpa": 2.8,
+        "name": "Shekh Naziullah ",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | B-",
+            "Big Data and IoT | B-",
+            "Computer Graphics | A-",
+            "Natural Language Processing | B+",
+            "Software Engineering | A",
+            "Software Project VI | A-",
+            "Web Engineering Lab | F",
+            "Web Engineering | B"
         ]
     },
     "201-15-3779": {
