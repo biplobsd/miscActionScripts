@@ -1328,11 +1328,6 @@
             "Web Engineering | Teaching evaluation is pending"
         ]
     },
-    "181-15-2070": {
-        "sgpa": 0.0,
-        "name": "Mazharul Alam ",
-        "cTitleNgLetter": []
-    },
     "201-15-14273": {
         "sgpa": 0.0,
         "name": "ABDULLAH AL ASIB",
@@ -1355,6 +1350,11 @@
     "143-15-4546": {
         "sgpa": 0.0,
         "name": "Zamiul Islam",
+        "cTitleNgLetter": []
+    },
+    "181-15-968": {
+        "sgpa": 0.0,
+        "name": "Rokaya Akter Taiyaba",
         "cTitleNgLetter": []
     }
 }
