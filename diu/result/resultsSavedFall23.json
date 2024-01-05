@@ -581,6 +581,20 @@
             "Web Engineering | C+"
         ]
     },
+    "201-15-3520": {
+        "sgpa": 2.96,
+        "name": "SRIJAN BIR ",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | B+",
+            "Big Data and IoT | B",
+            "Computer Graphics | A-",
+            "Natural Language Processing | C+",
+            "Software Engineering | A",
+            "Software Project VI | C",
+            "Web Engineering Lab | C+",
+            "Web Engineering | C+"
+        ]
+    },
     "203-15-3886": {
         "sgpa": 2.95,
         "name": "Al- Sabbir - Bin - Saifullah Emon ",
@@ -695,6 +709,20 @@
             "Web Engineering | B"
         ]
     },
+    "203-15-3865": {
+        "sgpa": 2.8,
+        "name": "Shekh Naziullah ",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | B-",
+            "Big Data and IoT | B-",
+            "Computer Graphics | A-",
+            "Natural Language Processing | B+",
+            "Software Engineering | A",
+            "Software Project VI | A-",
+            "Web Engineering Lab | F",
+            "Web Engineering | B"
+        ]
+    },
     "201-15-3779": {
         "sgpa": 2.79,
         "name": "Anowar Karim",
@@ -777,20 +805,6 @@
             "Software Project VI | A-",
             "Web Engineering Lab | D",
             "Web Engineering | F"
-        ]
-    },
-    "193-15-2947": {
-        "sgpa": 2.7,
-        "name": "Md Enamul Huq",
-        "cTitleNgLetter": [
-            "Big Data and IoT | C+",
-            "Computer Graphics Lab | B",
-            "Computer Graphics | A-",
-            "Natural Language Processing | C+",
-            "Software Engineering | B-",
-            "Software Project VI | C+",
-            "Web Engineering Lab | B-",
-            "Web Engineering | D"
         ]
     },
     "203-15-3925": {
@@ -1247,20 +1261,6 @@
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": []
     },
-    "201-15-3263": {
-        "sgpa": 0.0,
-        "name": "AAHAD RAIHAN SIKTO ",
-        "cTitleNgLetter": [
-            "Artificial Intelligence Lab | I",
-            "Artificial Intelligence | I",
-            "Computer Networks Lab | I",
-            "Computer Networks | I",
-            "Database Management System Lab | F",
-            "Database Management System | F",
-            "Math for Computer Science | I",
-            "Software Project IV | I"
-        ]
-    },
     "181-15-1096": {
         "sgpa": 0.0,
         "name": "Sadekul Alam",
@@ -1327,6 +1327,11 @@
     "181-15-2070": {
         "sgpa": 0.0,
         "name": "Mazharul Alam ",
+        "cTitleNgLetter": []
+    },
+    "201-15-14273": {
+        "sgpa": 0.0,
+        "name": "ABDULLAH AL ASIB",
         "cTitleNgLetter": []
     }
 }
