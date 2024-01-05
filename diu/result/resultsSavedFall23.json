@@ -83,19 +83,6 @@
             "Web Engineering | A-"
         ]
     },
-    "203-15-14491": {
-        "sgpa": 3.81,
-        "name": "Salman",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | A+",
-            "Big Data and IoT | A+",
-            "Computer Graphics Lab | A-",
-            "Computer Graphics | A-",
-            "Software Engineering | A",
-            "Web Engineering Lab | A+",
-            "Web Engineering | A+"
-        ]
-    },
     "203-15-14513": {
         "sgpa": 3.79,
         "name": "Md. Shakhawat Hossain",
@@ -153,6 +140,20 @@
             "Software Project VI | A",
             "Web Engineering Lab | A",
             "Web Engineering | B+"
+        ]
+    },
+    "203-15-3882": {
+        "sgpa": 3.57,
+        "name": "Samsun Naher Asme ",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | A-",
+            "Big Data and IoT | C+",
+            "Computer Graphics | A",
+            "Natural Language Processing | A",
+            "Software Engineering | A-",
+            "Software Project VI | A+",
+            "Web Engineering Lab | A",
+            "Web Engineering | A-"
         ]
     },
     "203-15-3906": {
@@ -417,20 +418,6 @@
             "Software Project VI | B+",
             "Web Engineering Lab | B-",
             "Web Engineering | B"
-        ]
-    },
-    "203-15-14572": {
-        "sgpa": 3.2,
-        "name": "Md. Golam Kibria",
-        "cTitleNgLetter": [
-            "Big Data and IoT | A-",
-            "Computer Graphics Lab | B",
-            "Computer Graphics | B+",
-            "Natural Language Processing | A-",
-            "Software Engineering | A-",
-            "Software Project VI | B+",
-            "Web Engineering Lab | B-",
-            "Web Engineering | C"
         ]
     },
     "203-15-3923": {
@@ -1035,20 +1022,6 @@
             "Web Engineering | F"
         ]
     },
-    "203-15-3880": {
-        "sgpa": 2.32,
-        "name": "Abdul Fattah Mujtabir Samin",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | A",
-            "Big Data and IoT | D",
-            "Computer Graphics | D",
-            "Natural Language Processing | D",
-            "Software Engineering | C+",
-            "Software Project VI | A-",
-            "Web Engineering Lab | D",
-            "Web Engineering | F"
-        ]
-    },
     "201-15-3209": {
         "sgpa": 2.25,
         "name": "Zannatul Mawya Priya ",
@@ -1228,11 +1201,6 @@
     "201-15-3621": {
         "sgpa": 0.0,
         "name": "Md. Morsalin",
-        "cTitleNgLetter": []
-    },
-    "143-15-4546": {
-        "sgpa": 0.0,
-        "name": "Zamiul Islam",
         "cTitleNgLetter": []
     },
     "182-15-2223": {
