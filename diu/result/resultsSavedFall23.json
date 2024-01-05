@@ -169,20 +169,6 @@
             "Web Engineering | A-"
         ]
     },
-    "203-15-3906": {
-        "sgpa": 3.55,
-        "name": "Arnob Dey ",
-        "cTitleNgLetter": [
-            "Big Data and IoT | B+",
-            "Computer Graphics Lab | A+",
-            "Computer Graphics | B+",
-            "Natural Language Processing | B",
-            "Software Engineering | A+",
-            "Software Project VI | A+",
-            "Web Engineering Lab | A-",
-            "Web Engineering | B+"
-        ]
-    },
     "203-15-3871": {
         "sgpa": 3.52,
         "name": "Md. Rakibul Islam Shanto ",
@@ -1046,6 +1032,20 @@
             "Software Engineering | Teaching evaluation is pending",
             "Software Project VI | A",
             "Web Engineering Lab | F",
+            "Web Engineering | F"
+        ]
+    },
+    "203-15-3880": {
+        "sgpa": 2.32,
+        "name": "Abdul Fattah Mujtabir Samin",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | A",
+            "Big Data and IoT | D",
+            "Computer Graphics | D",
+            "Natural Language Processing | D",
+            "Software Engineering | C+",
+            "Software Project VI | A-",
+            "Web Engineering Lab | D",
             "Web Engineering | F"
         ]
     },
