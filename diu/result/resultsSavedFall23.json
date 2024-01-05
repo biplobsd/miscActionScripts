@@ -13,20 +13,6 @@
             "Web Engineering | A+"
         ]
     },
-    "203-15-3879": {
-        "sgpa": 3.93,
-        "name": "Jahidul Islam ",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | A+",
-            "Big Data and IoT | A+",
-            "Computer Graphics | A+",
-            "Natural Language Processing | A+",
-            "Software Engineering | A+",
-            "Software Project VI | A+",
-            "Web Engineering Lab | A-",
-            "Web Engineering | A+"
-        ]
-    },
     "201-15-3442": {
         "sgpa": 3.86,
         "name": "MD. FOYSAL SHEIKH ",
@@ -279,6 +265,20 @@
             "Web Engineering | C+"
         ]
     },
+    "203-15-3887": {
+        "sgpa": 3.39,
+        "name": "Jahid Imran",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | B+",
+            "Big Data and IoT | B-",
+            "Computer Graphics | A+",
+            "Natural Language Processing | A-",
+            "Software Engineering | A-",
+            "Software Project VI | A",
+            "Web Engineering Lab | B-",
+            "Web Engineering | A+"
+        ]
+    },
     "201-15-3470": {
         "sgpa": 3.38,
         "name": "S. M. MARUF HOSSAIN ",
@@ -447,6 +447,20 @@
             "Web Engineering | B"
         ]
     },
+    "202-15-3841": {
+        "sgpa": 3.11,
+        "name": "Md. Alif Rahman Shefat",
+        "cTitleNgLetter": [
+            "Compiler Design Lab | B",
+            "Compiler Design | A-",
+            "Data Mining and Machine Learning Lab | B-",
+            "Pervasive Computing and Mobile App Development Lab | B",
+            "Pervasive Computing | B-",
+            "Software Engineering | A-",
+            "Software Project VI | B",
+            "System Analysis and Design | B"
+        ]
+    },
     "201-15-3048": {
         "sgpa": 3.07,
         "name": "MD. ENAMUL HAQUE CHOWDHURY",
@@ -459,18 +473,6 @@
             "Software Project VI | A-",
             "Web Engineering Lab | B-",
             "Web Engineering | B-"
-        ]
-    },
-    "202-15-3841": {
-        "sgpa": 3.06,
-        "name": "Md. Alif Rahman Shefat",
-        "cTitleNgLetter": [
-            "Data Mining and Machine Learning Lab | B-",
-            "Pervasive Computing and Mobile App Development Lab | B",
-            "Pervasive Computing | B-",
-            "Software Engineering | A-",
-            "Software Project VI | B",
-            "System Analysis and Design | B"
         ]
     },
     "201-15-3313": {
