@@ -793,6 +793,20 @@
             "Web Engineering | D"
         ]
     },
+    "203-15-3877": {
+        "sgpa": 2.71,
+        "name": "Faiza Noshin Tithi",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | B",
+            "Big Data and IoT | C+",
+            "Computer Graphics | B+",
+            "Natural Language Processing | B-",
+            "Software Engineering | A-",
+            "Software Project VI | A-",
+            "Web Engineering Lab | D",
+            "Web Engineering | F"
+        ]
+    },
     "193-15-2947": {
         "sgpa": 2.7,
         "name": "Md Enamul Huq",
@@ -821,6 +835,20 @@
             "Software Project VI | B-",
             "Web Engineering Lab | D",
             "Web Engineering | D"
+        ]
+    },
+    "181-15-1723": {
+        "sgpa": 2.68,
+        "name": "Alauddin ",
+        "cTitleNgLetter": [
+            "Computer Architecture and Organization | C+",
+            "Computer Graphics Lab | B-",
+            "Computer Graphics | C+",
+            "Data Mining | C+",
+            "Embedded Systems | B",
+            "Introduction to Robotics | B-",
+            "Simulation and Modeling Lab | A-",
+            "Simulation and Modeling | C+"
         ]
     },
     "181-15-2017": {
@@ -1319,5 +1347,19 @@
         "sgpa": 0.0,
         "name": "NAIEM MIA ",
         "cTitleNgLetter": []
+    },
+    "201-15-3711": {
+        "sgpa": 0.0,
+        "name": "Sabikur Rahman",
+        "cTitleNgLetter": [
+            "Compiler Design | I",
+            "Data Mining and Machine Learning Lab | F",
+            "Data Mining and Machine Learning | I",
+            "Pervasive Computing and Mobile App Development Lab | F",
+            "Pervasive Computing | F",
+            "Research and Innovation | F",
+            "Software Engineering | I",
+            "System Analysis and Design | F"
+        ]
     }
 }
