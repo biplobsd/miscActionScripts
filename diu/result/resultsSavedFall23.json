@@ -155,20 +155,6 @@
             "Web Engineering | B+"
         ]
     },
-    "203-15-3882": {
-        "sgpa": 3.57,
-        "name": "Samsun Naher Asme ",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | A-",
-            "Big Data and IoT | C+",
-            "Computer Graphics | A",
-            "Natural Language Processing | A",
-            "Software Engineering | A-",
-            "Software Project VI | A+",
-            "Web Engineering Lab | A",
-            "Web Engineering | A-"
-        ]
-    },
     "203-15-3906": {
         "sgpa": 3.55,
         "name": "Arnob Dey ",
@@ -1368,6 +1354,16 @@
     "181-15-1852": {
         "sgpa": 0.0,
         "name": "Md. Redoy Ahmed ",
+        "cTitleNgLetter": []
+    },
+    "182-15-2223": {
+        "sgpa": 0.0,
+        "name": "Md. Sakib Chowdhury",
+        "cTitleNgLetter": []
+    },
+    "181-15-285": {
+        "sgpa": 0.0,
+        "name": "Md.Nahid Hasan",
         "cTitleNgLetter": []
     }
 }
