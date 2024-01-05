@@ -13,6 +13,20 @@
             "Web Engineering | A+"
         ]
     },
+    "203-15-3879": {
+        "sgpa": 3.93,
+        "name": "Jahidul Islam ",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | A+",
+            "Big Data and IoT | A+",
+            "Computer Graphics | A+",
+            "Natural Language Processing | A+",
+            "Software Engineering | A+",
+            "Software Project VI | A+",
+            "Web Engineering Lab | A-",
+            "Web Engineering | A+"
+        ]
+    },
     "201-15-3442": {
         "sgpa": 3.86,
         "name": "MD. FOYSAL SHEIKH ",
@@ -1228,11 +1242,6 @@
         "name": "Md. Morsalin",
         "cTitleNgLetter": []
     },
-    "182-15-2223": {
-        "sgpa": 0.0,
-        "name": "Md. Sakib Chowdhury",
-        "cTitleNgLetter": []
-    },
     "203-15-3904": {
         "sgpa": 0.0,
         "name": "Hasibul Hasan ",
@@ -1274,11 +1283,6 @@
     "201-15-14273": {
         "sgpa": 0.0,
         "name": "ABDULLAH AL ASIB",
-        "cTitleNgLetter": []
-    },
-    "181-15-285": {
-        "sgpa": 0.0,
-        "name": "Md.Nahid Hasan",
         "cTitleNgLetter": []
     },
     "143-15-4546": {
@@ -1359,6 +1363,11 @@
     "181-15-2070": {
         "sgpa": 0.0,
         "name": "Mazharul Alam ",
+        "cTitleNgLetter": []
+    },
+    "181-15-1852": {
+        "sgpa": 0.0,
+        "name": "Md. Redoy Ahmed ",
         "cTitleNgLetter": []
     }
 }
