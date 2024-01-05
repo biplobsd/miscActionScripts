@@ -281,6 +281,19 @@
             "Web Engineering | A+"
         ]
     },
+    "201-15-3691": {
+        "sgpa": 3.39,
+        "name": "Rabib Al Rise ",
+        "cTitleNgLetter": [
+            "Big Data and IoT Lab | A+",
+            "Big Data and IoT | B+",
+            "Computer Graphics | A",
+            "Software Engineering | A",
+            "Software Project VI | A+",
+            "Web Engineering Lab | C",
+            "Web Engineering | C+"
+        ]
+    },
     "201-15-3470": {
         "sgpa": 3.38,
         "name": "S. M. MARUF HOSSAIN ",
@@ -714,20 +727,6 @@
             "Research and Innovation | A+",
             "Software Engineering | B+",
             "System Analysis and Design | B+"
-        ]
-    },
-    "203-15-3865": {
-        "sgpa": 2.8,
-        "name": "Shekh Naziullah ",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | B-",
-            "Big Data and IoT | B-",
-            "Computer Graphics | A-",
-            "Natural Language Processing | B+",
-            "Software Engineering | A",
-            "Software Project VI | A-",
-            "Web Engineering Lab | F",
-            "Web Engineering | B"
         ]
     },
     "201-15-3779": {
@@ -1360,6 +1359,11 @@
     "203-15-3908": {
         "sgpa": 0.0,
         "name": "Md. Asif Haider",
+        "cTitleNgLetter": []
+    },
+    "181-15-1096": {
+        "sgpa": 0.0,
+        "name": "Sadekul Alam",
         "cTitleNgLetter": []
     }
 }
