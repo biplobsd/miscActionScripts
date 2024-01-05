@@ -267,19 +267,6 @@
             "Social and Professional Issues in Computing | B"
         ]
     },
-    "201-15-3691": {
-        "sgpa": 3.39,
-        "name": "Rabib Al Rise ",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | A+",
-            "Big Data and IoT | B+",
-            "Computer Graphics | A",
-            "Software Engineering | A",
-            "Software Project VI | A+",
-            "Web Engineering Lab | C",
-            "Web Engineering | C+"
-        ]
-    },
     "203-15-3887": {
         "sgpa": 3.39,
         "name": "Jahid Imran",
@@ -1280,11 +1267,6 @@
         "name": "Jugol Kishor Das",
         "cTitleNgLetter": []
     },
-    "181-15-1096": {
-        "sgpa": 0.0,
-        "name": "Sadekul Alam",
-        "cTitleNgLetter": []
-    },
     "193-15-3028": {
         "sgpa": 0.0,
         "name": "Tanvir Hosain",
@@ -1373,6 +1355,11 @@
     "143-15-4546": {
         "sgpa": 0.0,
         "name": "Zamiul Islam",
+        "cTitleNgLetter": []
+    },
+    "203-15-3908": {
+        "sgpa": 0.0,
+        "name": "Md. Asif Haider",
         "cTitleNgLetter": []
     }
 }
