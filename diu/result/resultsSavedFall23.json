@@ -183,20 +183,6 @@
             "Web Engineering | B+"
         ]
     },
-    "203-15-3871": {
-        "sgpa": 3.52,
-        "name": "Md. Rakibul Islam Shanto ",
-        "cTitleNgLetter": [
-            "Big Data and IoT Lab | A-",
-            "Big Data and IoT | C",
-            "Computer Graphics | A+",
-            "Natural Language Processing | A-",
-            "Software Engineering | A-",
-            "Software Project VI | A+",
-            "Web Engineering Lab | A-",
-            "Web Engineering | A+"
-        ]
-    },
     "191-15-2716": {
         "sgpa": 3.48,
         "name": "Shawkat Uddin Akanda",
@@ -1270,11 +1256,6 @@
             "System Analysis and Design | F"
         ]
     },
-    "181-15-2070": {
-        "sgpa": 0.0,
-        "name": "Mazharul Alam ",
-        "cTitleNgLetter": []
-    },
     "201-15-3063": {
         "sgpa": 0.0,
         "name": "Jugol Kishor Das",
@@ -1347,5 +1328,19 @@
         "sgpa": 0.0,
         "name": "Md Rabbi Hasan",
         "cTitleNgLetter": []
+    },
+    "203-15-3917": {
+        "sgpa": 0.0,
+        "name": "Tania Akter",
+        "cTitleNgLetter": [
+            "Big Data and IoT | Teaching evaluation is pending",
+            "Computer Graphics Lab | Teaching evaluation is pending",
+            "Computer Graphics | Teaching evaluation is pending",
+            "Natural Language Processing | Teaching evaluation is pending",
+            "Software Engineering | Teaching evaluation is pending",
+            "Software Project VI | Teaching evaluation is pending",
+            "Web Engineering Lab | Teaching evaluation is pending",
+            "Web Engineering | Teaching evaluation is pending"
+        ]
     }
 }
